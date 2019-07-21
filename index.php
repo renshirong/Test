@@ -1,0 +1,6 @@
+hello!...
+
+<?php
+echo "PHP";
+
+?>
